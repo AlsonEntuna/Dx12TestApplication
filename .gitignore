@@ -31,3 +31,10 @@
 *.out
 *.app
 .vs/
+*.recipe
+*.ilk
+*.log
+*.idb
+*.pdb
+*.tlog
+*.lastbuildstate
